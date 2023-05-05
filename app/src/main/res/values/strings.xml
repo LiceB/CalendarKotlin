@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calendar</string>
+    <string name="title">-- Create Schedule --</string>
+    <string name="description">-- Last Schedule</string>
+    <string name="change_theme">Change Theme</string>
+    <string name="data_shedule">-- Schedule Date --</string>
+    <string name="save_shedule">Save schedule</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calendar</string>
+    <string name="title">-- Criar Compromisso --</string>
+    <string name="description">-- Últimos compromisso</string>
+    <string name="change_theme">Mudar Tema</string>
+    <string name="data_shedule">-- Data do Compromisso --</string>
+    <string name="save_shedule">Salvar Compromisso</string>
+</resources>
